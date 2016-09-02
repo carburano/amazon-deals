@@ -3,14 +3,14 @@ module.exports = {
   'dealTypes': ['LIGHTNING_DEAL'],
   'dealStates': ['AVAILABLE', 'EXPIRED', 'SOLDOUT', 'UPCOMING'],
   'categories': [{
-    'nodeId': '78191031',
-    'category': 'Auto & Motorrad'
+    'nodeId': '2844433031',
+    'category': 'Abbigliamento'
   }, {
-    'nodeId': '355007011',
-    'category': 'Baby'
+    'nodeId': '6198092031',
+    'category': 'Alimentari e cura della casa'
   }, {
-    'nodeId': '80084031',
-    'category': 'Baumarkt'
+    'nodeId': '1661660031',
+    'category': 'App-Shop Amazon per Android'
   }, {
     'nodeId': '77028031',
     'category': 'Bekleidung'
@@ -33,8 +33,8 @@ module.exports = {
     'nodeId': '64187031',
     'category': 'Drogerie & Körperpflege'
   }, {
-    'nodeId': '562066',
-    'category': 'Elektronik & Foto'
+    'nodeId': '412609031',
+    'category': 'Elettronica'
   }, {
     'nodeId': '908823031',
     'category': 'Elektro-Großgeräte'
